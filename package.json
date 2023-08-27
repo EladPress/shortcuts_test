@@ -1,0 +1,22 @@
+{
+  "name": "shortcuts_test",
+  "version": "1.0.0",
+  "description": "testing apple shortcuts with node package",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EladPress/shortcuts_test.git"
+  },
+  "author": "EladPress",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EladPress/shortcuts_test/issues"
+  },
+  "homepage": "https://github.com/EladPress/shortcuts_test#readme",
+  "dependencies": {
+    "@joshfarrant/shortcuts-js": "^0.6.0"
+  }
+}
